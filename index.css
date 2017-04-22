@@ -1,0 +1,12 @@
+
+.node .node-background{
+    stroke: black;
+    stroke-width: 1;
+    fill: transparent;
+    cursor: move;
+}
+
+.node .node-resize{
+    fill: transparent;
+    cursor: se-resize;
+}
